@@ -1,0 +1,21 @@
+//
+//  weibo.pch
+//  WXWeibo
+//
+//  Created by liuwei on 15/10/10.
+//  Copyright (c) 2015年 wxhl. All rights reserved.
+//
+
+#ifndef WXWeibo_weibo_pch
+#define WXWeibo_weibo_pch
+#define kThemeChangeNotification @"kThemeChange"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Common.h"
+#import "UIViewExt.h"
+#import "XSHeaderRefresh.h"
+#import "XSFooterRefresh.h"
+#import "XSCommonWebViewController.h"
+
+#endif
