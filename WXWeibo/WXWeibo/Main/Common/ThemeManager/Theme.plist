@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>猫爷</key>
+	<string>Skins/cat</string>
+	<key>黑暗骑士</key>
+	<string>Skins/darknight</string>
+	<key>Mr.O</key>
+	<string>Skins/graypro</string>
+	<key>夜总会</key>
+	<string>Skins/nightclub</string>
+	<key>蓝月亮</key>
+	<string>Skins/bluemoon</string>
+	<key>黑暗之女</key>
+	<string>Skins/darkfairy</string>
+	<key>FishEye</key>
+	<string>Skins/fisheye</string>
+	<key>丛林</key>
+	<string>Skins/forest</string>
+	<key>玩具</key>
+	<string>Skins/happytoy</string>
+	<key>小熊</key>
+	<string>Skins/honey</string>
+	<key>魁拔</key>
+	<string>Skins/kuiba</string>
+	<key>深海</key>
+	<string>Skins/oceanrun</string>
+	<key>林肯公园</key>
+	<string>Skins/pinkpink</string>
+	<key>粉色之恋</key>
+	<string>Skins/puppy</string>
+	<key>村落</key>
+	<string>Skins/village</string>
+</dict>
+</plist>
