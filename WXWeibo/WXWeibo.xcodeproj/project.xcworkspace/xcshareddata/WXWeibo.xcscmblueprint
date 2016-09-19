@@ -1,5 +1,5 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4307A07C4E2B423694182DAD975DCCE2FC3091A4",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4E76F4A9C1C072821BCBD57D67FDB9A4FF92DF2D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "56a4bbb5-51e3-2242-96e5-cc955eaf7cec++2496" : {
 
@@ -7,12 +7,12 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "56a4bbb5-51e3-2242-96e5-cc955eaf7cec++2496" : 0,
-    "4307A07C4E2B423694182DAD975DCCE2FC3091A4" : 0
+    "4E76F4A9C1C072821BCBD57D67FDB9A4FF92DF2D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "153B158E-3A49-464C-B064-02E8D5719C18",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "56a4bbb5-51e3-2242-96e5-cc955eaf7cec++2496" : "10%20%E7%AC%AC%E5%8D%81%E5%A4%A9\/",
-    "4307A07C4E2B423694182DAD975DCCE2FC3091A4" : "SinaWeibo\/"
+    "4E76F4A9C1C072821BCBD57D67FDB9A4FF92DF2D" : "SinaWeibo\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "WXWeibo",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -21,7 +21,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Abel-Shi\/SinaWeibo.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4307A07C4E2B423694182DAD975DCCE2FC3091A4"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E76F4A9C1C072821BCBD57D67FDB9A4FF92DF2D"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.10.254\/svn\/student",
